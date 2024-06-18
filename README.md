@@ -16,6 +16,7 @@
 <details>
   <summary>👨‍💻 Sobre mim</summary>
   <br>
+  
   - 💬 Estou a 2 anos me aperfeiçoando na área de TI, comecei fazendo pequenos projetos para o arduino após isso comecei a estudar game dev na Unity e hoje em dia estou estudando desenvolvimento web a mais de 1 ano.
 </details>
 <br>
