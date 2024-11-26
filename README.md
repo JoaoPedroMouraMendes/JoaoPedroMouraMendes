@@ -8,7 +8,7 @@
 <p>
   Olá 👋, sou João Pedro!
   
-  - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+  - 🌱 Atualmente estou cursando Engenharia de Software.
   - 🔎 Estou em busca do meu primeiro emprego na área de TI.
 </p>
 
