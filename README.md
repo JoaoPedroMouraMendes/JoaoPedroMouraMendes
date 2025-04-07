@@ -6,7 +6,7 @@
 
 <!-- Apresentação -->
 <p>
-  Olá 👋, sou João Pedro!
+  Olá 👋, me chamo João Pedro.
   
   - 🌱 Atualmente estou cursando Engenharia de Software.
   - 🔎 Estou em busca do meu primeiro emprego na área de TI.
